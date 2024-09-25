@@ -20,7 +20,7 @@
    - docker ps -aq
 
 ### 6. Stop the docker
-   - docker stop <container id>
+   - docker stop <<container id>>
 
 ### 7. docker system df
    - Show all the container and images in local computer
