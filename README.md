@@ -24,7 +24,7 @@
 
 ### 7. docker system df
    - Show all the container and images in local computer
-   - 
+     
 ### 8. remove docker with force
    - docker rmi -f <images id>
    - docker container prune
